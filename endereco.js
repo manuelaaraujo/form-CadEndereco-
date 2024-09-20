@@ -15,4 +15,12 @@ const limparFormulario = () => {
 
 // verifica se o cep é válido
 const eNumero = (numero) => /^[0-9]+$/.test(numero);
-const 
+const cepValido = (cep) => cep.length == 8 && eNumero(cep);  //verifica se a quantidade de caracteres dentro de CEP é igual á 8 
+
+// função responsável por preencher o formulário com as informações da API
+const preencherFormulario = (endereço) => {
+    document.getElementById('logradouro').value = endereco.logradouro;
+    document.getElementById('bairro').value = endereco.logradouro;
+    document.getElementById('localidade').value = endereco.logradouro;
+    document.getElementById('uf').value = endereco.logradouro;
+}
