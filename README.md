@@ -7,8 +7,8 @@
 * [Funcionalidades](#funcionalidades)
 * [Resultado](#resultado)
 * [Fontes](#fontes)
-* [Autores](#autores)
-
+* [Autora](#autora)
+* [Orientador](#orientador)
 ## Introdução
 
 Neste trabalho, apresentaremos o projeto do Cadastro de Endereço que desenvolvemos juntos durante as aulas junto com o professor. Esta atividade tem o intuito de aprimorar nossas habilidades de programação e colaboração.
@@ -97,7 +97,8 @@ O código permite preencher automaticamente um formulário de endereço com base
 
 [Chat GPT](https://chatgpt.com/)
 
-## Autores 
-[Leonardo Rocha](https://github.com/LeonardoRochaMarista)
-
+## Autora
 [Manuela Araujo dos Santos](https://github.com/manuelaaraujo)
+
+## Orientador 
+[Leonardo Rocha](https://github.com/LeonardoRochaMarista)
