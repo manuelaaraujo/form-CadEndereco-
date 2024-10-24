@@ -27,7 +27,7 @@ const preencherFormulario = (endereco) => {
 // Função para consumo de API ViaCEP
 const pesquisarCep = async() => {   //principal função que será executada quando for preencher o formúlario 
     limparFormulario();   //função para deixar o formúlario em branco para ser preenchido 
-    const url = `http://viacep.com.br/ws/${cep.value}/json/`;
+    const url = `https://viacep.com.br/ws/${cep.value}/json/`;
 
     if(cepValido(cep.value)){
         const dados = await fetch(url);  //fetch requisição do viacep e await garante que o feitch responda corretamente no formúlario 
