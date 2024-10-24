@@ -90,6 +90,14 @@ O código permite preencher automaticamente um formulário de endereço com base
 
 ## Resultado
 
+![](img/resultado.gif)
+
 ## Fontes
+[Mdn Web Docs](https://developer.mozilla.org/pt-BR/)
+
+[Chat GPT](https://chatgpt.com/)
 
 ## Autores 
+[Leonardo Rocha](https://github.com/LeonardoRochaMarista)
+
+[Manuela Araujo dos Santos](https://github.com/manuelaaraujo)
